@@ -1,0 +1,317 @@
+[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.42,0:00:15.61,Gen_Italics_top,,0000,0000,0000,,One dream one wish
+Dialogue: 0,0:00:11.42,0:00:15.61,Gen_Main,,0000,0000,0000,,Un sueño. Un deseo.
+Dialogue: 0,0:00:15.96,0:00:20.62,Gen_Italics_top,,0000,0000,0000,,kanaetai nara over the top
+Dialogue: 0,0:00:15.96,0:00:20.62,Gen_Main,,0000,0000,0000,,Si quieres cumplirlo, sube a la cima.
+Dialogue: 0,0:00:36.62,0:00:39.81,Gen_Italics_top,,0000,0000,0000,,mitakoto mo nai sekai mezashi
+Dialogue: 0,0:00:36.62,0:00:39.81,Gen_Main,,0000,0000,0000,,Partiendo a un mundo desconocido.
+Dialogue: 0,0:00:41.12,0:00:45.06,Gen_Italics_top,,0000,0000,0000,,araburu namikaze koete
+Dialogue: 0,0:00:41.12,0:00:45.06,Gen_Main,,0000,0000,0000,,Soportando fuertes vientos y olas.
+Dialogue: 0,0:00:45.25,0:00:49.92,Gen_Italics_top,,0000,0000,0000,,tsukisusumanakya dame sa\Nichibannori shitain da
+Dialogue: 0,0:00:45.25,0:00:49.92,Gen_Main,,0000,0000,0000,,Debo seguir\Nporque quiero llegar primero.
+Dialogue: 0,0:00:50.10,0:00:56.18,Gen_Italics_top,,0000,0000,0000,,shinpai toka atomawashi\Ndouse shoubu ichika bachika
+Dialogue: 0,0:00:50.10,0:00:56.18,Gen_Main,,0000,0000,0000,,Preocúpate después\Nporque solo podemos hundirnos o nadar.
+Dialogue: 0,0:00:58.32,0:01:02.37,Gen_Italics_top,,0000,0000,0000,,aite ga dekaku mietara
+Dialogue: 0,0:00:58.32,0:01:02.37,Gen_Main,,0000,0000,0000,,Que tus oponentes parezcan temibles
+Dialogue: 0,0:01:02.99,0:01:07.92,Gen_Italics_top,,0000,0000,0000,,kokoro ga chijinderu shouko
+Dialogue: 0,0:01:02.99,0:01:07.92,Gen_Main,,0000,0000,0000,,es una señal\Nde que tu corazón se encoge.
+Dialogue: 0,0:01:08.29,0:01:10.42,Gen_Italics_top,,0000,0000,0000,,nigeru nante choice wa nai
+Dialogue: 0,0:01:08.29,0:01:10.42,Gen_Main,,0000,0000,0000,,Huir no es una opción.
+Dialogue: 0,0:01:10.60,0:01:12.80,Gen_Italics_top,,0000,0000,0000,,ippo soba he chikazukunda
+Dialogue: 0,0:01:10.60,0:01:12.80,Gen_Main,,0000,0000,0000,,Da un paso más.
+Dialogue: 0,0:01:12.92,0:01:15.17,Gen_Italics_top,,0000,0000,0000,,namaikitte homekotoba?
+Dialogue: 0,0:01:12.92,0:01:15.17,Gen_Main,,0000,0000,0000,,Que te llamen insolente es un cumplido.
+Dialogue: 0,0:01:15.30,0:01:19.32,Gen_Italics_top,,0000,0000,0000,,kitsui toki hodo warattoke
+Dialogue: 0,0:01:15.30,0:01:19.32,Gen_Main,,0000,0000,0000,,Cuando haya problemas\Nes cuando debes reír.
+Dialogue: 0,0:01:20.87,0:01:25.25,Gen_Italics_top,,0000,0000,0000,,atarashii ashita\Nsagashi ni ikitai no nara
+Dialogue: 0,0:01:20.87,0:01:25.25,Gen_Main,,0000,0000,0000,,Si quieres ver un nuevo mañana,
+Dialogue: 0,0:01:25.50,0:01:30.61,Gen_Italics_top,,0000,0000,0000,,tobikkiri no jishin wo migaite
+Dialogue: 0,0:01:25.50,0:01:30.61,Gen_Main,,0000,0000,0000,,mejora tu única confianza.
+Dialogue: 0,0:01:30.83,0:01:35.15,Gen_Italics_top,,0000,0000,0000,,tabi wo shita ashiato ga
+Dialogue: 0,0:01:30.83,0:01:35.15,Gen_Main,,0000,0000,0000,,Hasta tus pasos,
+Dialogue: 0,0:01:35.38,0:01:38.61,Gen_Italics_top,,0000,0000,0000,,sou! chizu ni kawaru made
+Dialogue: 0,0:01:35.38,0:01:38.61,Gen_Main,,0000,0000,0000,,sí, serán un mapa.
+Dialogue: 0,0:01:38.80,0:01:43.31,Gen_Italics_top,,0000,0000,0000,,atarashii horizon hora susundekita bun
+Dialogue: 0,0:01:38.80,0:01:43.31,Gen_Main,,0000,0000,0000,,Un nuevo horizonte,\Nmira lo lejos que has llegado.
+Dialogue: 0,0:01:43.66,0:01:48.35,Gen_Italics_top,,0000,0000,0000,,mabushisa to nanido ga joushou
+Dialogue: 0,0:01:43.66,0:01:48.35,Gen_Main,,0000,0000,0000,,Es más brillante\Ny el nivel de dificultad aumenta.
+Dialogue: 0,0:01:48.73,0:01:53.07,Gen_Italics_top,,0000,0000,0000,,yumeutsutsu de okose hurricane
+Dialogue: 0,0:01:48.73,0:01:53.07,Gen_Main,,0000,0000,0000,,Vive en tu sueño y provoca un huracán.
+Dialogue: 0,0:01:53.44,0:01:57.90,Gen_Italics_top,,0000,0000,0000,,saa! chaato kakimidase
+Dialogue: 0,0:01:53.44,0:01:57.90,Gen_Main,,0000,0000,0000,,¡Vamos! Aumenta tu posición.
+Dialogue: 0,0:01:58.09,0:02:02.20,Gen_Italics_top,,0000,0000,0000,,One dream one wish
+Dialogue: 0,0:01:58.09,0:02:02.20,Gen_Main,,0000,0000,0000,,Un sueño. Un deseo.
+Dialogue: 0,0:02:02.30,0:02:06.71,Gen_Italics_top,,0000,0000,0000,,yume wa nigenai zenbu knock out
+Dialogue: 0,0:02:02.30,0:02:06.71,Gen_Main,,0000,0000,0000,,Los sueños no huyen. Derríbalo todo.
+Dialogue: 0,0:02:07.08,0:02:09.08,Gen_Italics_top,,0000,0000,0000,,Over the top
+Dialogue: 0,0:02:07.08,0:02:09.08,Gen_Main,,0000,0000,0000,,Sube a la cima.
+Dialogue: 0,0:02:13.27,0:02:17.03,Gen_Italics,,0000,0000,0000,,Luffy va a las ruinas\Ndel Castillo Oden con Law
+Dialogue: 0,0:02:17.33,0:02:20.16,Gen_Italics,,0000,0000,0000,,y encuentra las tumbas de Kin'emon\Ny los demás.
+Dialogue: 0,0:02:21.32,0:02:23.45,Gen_Main,,0000,0000,0000,,¡¿Por qué están aquí sus tumbas?!
+Dialogue: 0,0:02:28.16,0:02:30.08,Gen_Main,,0000,0000,0000,,¡Luffy-dono!
+Dialogue: 0,0:02:33.38,0:02:35.00,Gen_Main,,0000,0000,0000,,¡Kin!
+Dialogue: 0,0:02:35.44,0:02:39.84,Gen_Italics,,0000,0000,0000,,Se reúne con Kin'emon y Momonosuke,\Nde quienes se separó en Zou.
+Dialogue: 0,0:02:40.84,0:02:42.09,Gen_Italics,,0000,0000,0000,,Y también…
+Dialogue: 0,0:02:43.80,0:02:45.45,Gen_Main,,0000,0000,0000,,¡Hola!
+Dialogue: 0,0:02:47.58,0:02:48.81,Gen_Main,,0000,0000,0000,,¡Luffy!
+Dialogue: 0,0:02:50.31,0:02:51.77,Gen_Main,,0000,0000,0000,,¡Luffy!
+Dialogue: 0,0:02:53.69,0:02:55.30,Gen_Main,,0000,0000,0000,,¡Garchu!
+Dialogue: 0,0:02:56.03,0:02:59.49,Gen_Main,,0000,0000,0000,,¡Luffy, pareces un samurái! ¡Es genial!
+Dialogue: 0,0:03:00.24,0:03:06.37,Gen_Italics,,0000,0000,0000,,Después, Kin'emon les dice\Nalgo sorprendente.
+Dialogue: 0,0:03:07.45,0:03:12.42,Gen_Main,,0000,0000,0000,,En realidad venimos\Nde la Wano de hace 20 años.
+Dialogue: 0,0:03:13.58,0:03:17.64,Gen_Main,,0000,0000,0000,,¡Cruzando el tiempo\Nhacia la Wano del presente!
+Dialogue: 0,0:03:19.42,0:03:20.93,Gen_Main,,0000,0000,0000,,¿Qué quieres decir?
+Dialogue: 0,0:03:23.26,0:03:24.39,Gen_Main,,0000,0000,0000,,¿Es cierto?
+Dialogue: 0,0:03:24.61,0:03:27.06,Gen_Main,,0000,0000,0000,,¿Veinte años? ¿Qué quieres decir?
+Dialogue: 0,0:03:27.25,0:03:28.81,Gen_Main,,0000,0000,0000,,¿Cómo llegaron aquí?
+Dialogue: 0,0:03:29.30,0:03:32.16,Gen_Main,,0000,0000,0000,,Yo aún no había nacido.
+Dialogue: 0,0:03:33.27,0:03:34.71,Gen_Main,,0000,0000,0000,,No puede ser.
+Dialogue: 0,0:03:35.00,0:03:38.82,Gen_Main,,0000,0000,0000,,¿Quién puede viajar en el tiempo?
+Dialogue: 0,0:03:39.53,0:03:42.78,Gen_Main,,0000,0000,0000,,¡No tiene sentido!\N¡Explíquenlo de nuevo!
+Dialogue: 0,0:03:43.21,0:03:45.70,Gen_Main,,0000,0000,0000,,¡Sí! ¡Explíquenlo mejor!
+Dialogue: 0,0:03:48.33,0:03:52.16,Gen_Main,,0000,0000,0000,,Todo lo que les diré es la verdad.
+Dialogue: 0,0:03:52.58,0:03:53.87,Gen_Main,,0000,0000,0000,,¡La verdad
+Dialogue: 0,0:03:54.96,0:03:56.70,Gen_Main,,0000,0000,0000,,sobre Wano!
+Dialogue: 0,0:04:09.18,0:04:18.11,Cart_A_Ari,,0000,0000,0000,,Un samurái legendario\N¡El hombre que admiraba Roger!
+Dialogue: 0,0:04:12.24,0:04:16.40,Gen_Main,,0000,0000,0000,,Un samurái legendario.\N¡El hombre que admiraba Roger!
+Dialogue: 0,0:04:24.07,0:04:28.45,Gen_Main,,0000,0000,0000,,Aquí es donde estaba el Castillo Oden,
+Dialogue: 0,0:04:28.78,0:04:30.45,Gen_Main,,0000,0000,0000,,pero solo era un apodo.
+Dialogue: 0,0:04:31.00,0:04:33.16,Gen_Main,,0000,0000,0000,,En realidad se llamaba Castillo Kuri.
+Dialogue: 0,0:04:33.71,0:04:38.23,Gen_Main,,0000,0000,0000,,La gente de Kuri amaba a Oden-sama\Ny lo llamaron así.
+Dialogue: 0,0:04:38.50,0:04:40.00,Gen_Main,,0000,0000,0000,,¿El padre de Momo?
+Dialogue: 0,0:04:40.22,0:04:41.57,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:04:42.05,0:04:46.55,Gen_Main,,0000,0000,0000,,Nuestro señor, Oden-sama,\Nera una persona atrevida.
+Dialogue: 0,0:04:47.26,0:04:53.23,Gen_Main,,0000,0000,0000,,Era hijo de Kozuki Sukiyaki-sama,\Nel shogun de esa época,
+Dialogue: 0,0:04:53.89,0:04:57.63,Gen_Main,,0000,0000,0000,,pero era intrépido y aguerrido.
+Dialogue: 0,0:05:06.16,0:05:08.32,Gen_Main,,0000,0000,0000,,Causó muchos incidentes violentos
+Dialogue: 0,0:05:08.83,0:05:13.08,Gen_Main,,0000,0000,0000,,y fue expulsado\Nde la Capital de las Flores.
+Dialogue: 0,0:05:13.90,0:05:14.96,Gen_Main,,0000,0000,0000,,¿Expulsado?
+Dialogue: 0,0:05:15.75,0:05:18.54,Gen_Main,,0000,0000,0000,,Bueno, para el joven Oden-sama
+Dialogue: 0,0:05:18.90,0:05:22.48,Gen_Main,,0000,0000,0000,,la Capital de las Flores\Nera pequeña y aburrida.
+Dialogue: 0,0:05:30.09,0:05:31.26,Gen_Main,,0000,0000,0000,,¡Desgraciado!
+Dialogue: 0,0:05:31.39,0:05:32.18,Gen_Main,,0000,0000,0000,,¡Muérete!
+Dialogue: 0,0:05:34.89,0:05:39.98,Gen_Main,,0000,0000,0000,,En ese entonces,\Nhabía un área sin ley en Wano.
+Dialogue: 0,0:05:42.15,0:05:44.40,Gen_Main,,0000,0000,0000,,Los criminales y los ronin
+Dialogue: 0,0:05:44.67,0:05:47.47,Gen_Main,,0000,0000,0000,,que expulsaban de sus hogares\Nformaban grupos.
+Dialogue: 0,0:05:47.73,0:05:51.78,Gen_Main,,0000,0000,0000,,Robaban y mutilaban\Ny se derramaba sangre a diario.
+Dialogue: 0,0:05:52.20,0:05:55.89,Gen_Main,,0000,0000,0000,,El lugar era tan salvaje\Nque el shogun lo ignoró.
+Dialogue: 0,0:05:56.20,0:05:58.25,Gen_Main,,0000,0000,0000,,Eso era Kuri.
+Dialogue: 0,0:06:01.29,0:06:03.17,Gen_Main,,0000,0000,0000,,¡Esto parece emocionante!
+Dialogue: 0,0:06:05.38,0:06:10.64,Gen_Main,,0000,0000,0000,,El joven Oden-sama fue\Na ese famoso lugar.
+Dialogue: 0,0:06:13.43,0:06:14.72,Gen_Main,,0000,0000,0000,,Y…
+Dialogue: 0,0:06:16.23,0:06:19.40,Gen_Main,,0000,0000,0000,,¡Mocoso, danos todas tus cosas!
+Dialogue: 0,0:06:34.99,0:06:36.16,Gen_Main,,0000,0000,0000,,¡Auxilio!
+Dialogue: 0,0:06:50.74,0:06:52.55,Gen_Main,,0000,0000,0000,,¡Es genial!
+Dialogue: 0,0:06:53.30,0:06:55.89,Gen_Main,,0000,0000,0000,,¡Oden-sama era increíble!
+Dialogue: 0,0:06:56.30,0:07:02.21,Gen_Main,,0000,0000,0000,,Y entonces, apareció\Nel hombre más peligroso de Kuri.
+Dialogue: 0,0:07:08.49,0:07:10.20,Gen_Main,,0000,0000,0000,,Era Ashura Doji,
+Dialogue: 0,0:07:10.38,0:07:12.82,Gen_Main,,0000,0000,0000,,y lo enfrentó de inmediato.
+Dialogue: 0,0:07:55.07,0:07:57.99,Gen_Main,,0000,0000,0000,,Venció a Ashura Doji espléndidamente.
+Dialogue: 0,0:07:59.04,0:08:00.00,Gen_Main,,0000,0000,0000,,Y además…
+Dialogue: 0,0:08:01.33,0:08:05.04,Gen_Main,,0000,0000,0000,,se volvió líder de los rufianes.
+Dialogue: 0,0:08:10.11,0:08:11.66,Gen_Main,,0000,0000,0000,,Es increíble.
+Dialogue: 0,0:08:11.84,0:08:13.26,Gen_Main,,0000,0000,0000,,Salvó Kuri.
+Dialogue: 0,0:08:13.81,0:08:17.85,Gen_Main,,0000,0000,0000,,Además, Oden-sama\Nhizo cambiar el pueblo.
+Dialogue: 0,0:08:20.39,0:08:25.17,Gen_Main,,0000,0000,0000,,Primero, puso a los rufianes a trabajar.
+Dialogue: 0,0:08:27.48,0:08:31.40,Gen_Main,,0000,0000,0000,,Desarrolló el pueblo,\Nconstruyó el castillo
+Dialogue: 0,0:08:31.94,0:08:35.63,Gen_Main,,0000,0000,0000,,e hizo la Granja Paraíso para todos.
+Dialogue: 0,0:08:39.37,0:08:43.91,Gen_Main,,0000,0000,0000,,Kuri se volvió una región libre\Ny llena de risas,
+Dialogue: 0,0:08:44.92,0:08:48.96,Gen_Main,,0000,0000,0000,,y el shogun, Sukiyaki-sama,
+Dialogue: 0,0:08:49.15,0:08:52.42,Gen_Main,,0000,0000,0000,,le dio a Oden-sama\Nel título de daimyo.
+Dialogue: 0,0:08:53.42,0:08:58.69,Gen_Main,,0000,0000,0000,,Oden-sama consiguió todo eso\Ncon 20 años de edad.
+Dialogue: 0,0:09:02.72,0:09:06.31,Gen_Main,,0000,0000,0000,,Hizo un río y construyó muelles.
+Dialogue: 0,0:09:06.62,0:09:10.34,Gen_Main,,0000,0000,0000,,Conectó regiones y a la gente.
+Dialogue: 0,0:09:13.69,0:09:15.26,Gen_Main,,0000,0000,0000,,Y luego yo…
+Dialogue: 0,0:09:17.61,0:09:19.45,Gen_Main,,0000,0000,0000,,Sí. Y…
+Dialogue: 0,0:09:24.20,0:09:27.40,Gen_Main,,0000,0000,0000,,Era un daimyo que recibía\Nel amor de la gente de Kuri.
+Dialogue: 0,0:09:27.67,0:09:31.80,Gen_Main,,0000,0000,0000,,Pero Oden-sama deseaba ser libre.
+Dialogue: 0,0:09:32.55,0:09:36.68,Gen_Main,,0000,0000,0000,,Tener muchos vasallos no iba con él.
+Dialogue: 0,0:09:41.64,0:09:44.31,Gen_Main,,0000,0000,0000,,Siempre decía esto:
+Dialogue: 0,0:09:57.57,0:10:02.02,Gen_Main,,0000,0000,0000,,¡Es muy restrictivo!
+Dialogue: 0,0:10:12.59,0:10:16.88,Gen_Main,,0000,0000,0000,,Wano era demasiado pequeña\Npara Oden-sama.
+Dialogue: 0,0:10:18.93,0:10:23.51,Cart_A_Ari,,0000,0000,0000,,Duque Inuarashi\NRey del día, Ducado Mokomo
+Dialogue: 0,0:10:20.26,0:10:22.83,Gen_Main,,0000,0000,0000,,Qué tiempos.
+Dialogue: 0,0:10:24.01,0:10:26.37,Gen_Main,,0000,0000,0000,,Fue en esta playa.
+Dialogue: 0,0:10:26.85,0:10:31.50,Gen_Main,,0000,0000,0000,,Llegamos a la deriva y todos\Nnos llamaron perro y gato parlantes.
+Dialogue: 0,0:10:32.11,0:10:34.77,Gen_Main,,0000,0000,0000,,Nos temían.
+Dialogue: 0,0:10:36.23,0:10:38.65,Gen_Main,,0000,0000,0000,,Pero Oden-sama fue diferente.
+Dialogue: 0,0:10:42.78,0:10:44.76,Gen_Main,,0000,0000,0000,,¡Monstruos!
+Dialogue: 0,0:10:45.83,0:10:47.95,Gen_Main,,0000,0000,0000,,¡Alto!
+Dialogue: 0,0:10:48.43,0:10:50.67,Gen_Main,,0000,0000,0000,,¡¿Qué fue lo que les hicieron?!
+Dialogue: 0,0:10:51.14,0:10:54.42,Gen_Main,,0000,0000,0000,,¡Le temen a lo diferente\Npor su estupidez!
+Dialogue: 0,0:10:54.96,0:10:57.80,Gen_Main,,0000,0000,0000,,¡Avergüéncense!
+Dialogue: 0,0:10:59.22,0:11:00.59,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:11:19.99,0:11:22.61,Gen_Main,,0000,0000,0000,,Fue nuestro salvador.
+Dialogue: 0,0:11:24.45,0:11:26.41,Gen_Main,,0000,0000,0000,,Los samuráis de Wano
+Dialogue: 0,0:11:26.78,0:11:30.91,Gen_Main,,0000,0000,0000,,impresionaron a Barbablanca\Ny Roger los admiraba.
+Dialogue: 0,0:11:32.50,0:11:34.81,Gen_Main,,0000,0000,0000,,Era un verdadero héroe.
+Dialogue: 0,0:11:35.13,0:11:37.92,Gen_Main,,0000,0000,0000,,Era nuestro señor.
+Dialogue: 0,0:11:43.43,0:11:47.35,Gen_Main,,0000,0000,0000,,¡Oden-sama era gracioso,\Ndinámico y alegre!
+Dialogue: 0,0:11:47.81,0:11:51.16,Gen_Main,,0000,0000,0000,,Su espíritu y su naturaleza
+Dialogue: 0,0:11:51.48,0:11:54.59,Gen_Main,,0000,0000,0000,,convirtieron a Kuri en una gran región.
+Dialogue: 0,0:12:05.66,0:12:09.33,Gen_Main,,0000,0000,0000,,Pero ahora, por culpa de Kaido, todo…
+Dialogue: 0,0:12:21.21,0:12:22.76,Gen_Main,,0000,0000,0000,,¡Es imperdonable!
+Dialogue: 0,0:12:28.56,0:12:30.10,Gen_Main,,0000,0000,0000,,¡Momonosuke-sama!
+Dialogue: 0,0:12:33.27,0:12:35.46,Gen_Main,,0000,0000,0000,,¡Padre!
+Dialogue: 0,0:12:37.48,0:12:39.44,Gen_Main,,0000,0000,0000,,¡Maldito Kaido!
+Dialogue: 0,0:12:40.64,0:12:45.61,Gen_Main,,0000,0000,0000,,Kaido y Kurozumi Orochi\Nunieron fuerzas en secreto
+Dialogue: 0,0:12:46.28,0:12:48.95,Gen_Main,,0000,0000,0000,,y le tendieron una trampa a Oden-sama.
+Dialogue: 0,0:12:55.96,0:12:58.17,Gen_Main,,0000,0000,0000,,¡Wano cayó en pedazos
+Dialogue: 0,0:13:00.80,0:13:02.59,Gen_Main,,0000,0000,0000,,y a Oden-sama
+Dialogue: 0,0:13:03.34,0:13:05.47,Gen_Main,,0000,0000,0000,,lo consideraron un criminal!
+Dialogue: 0,0:13:06.64,0:13:10.60,Cart_A_Ari,,0000,0000,0000,,Kozuki Oden
+Dialogue: 0,0:13:35.08,0:13:37.56,Gen_Main,,0000,0000,0000,,Bueno, regresemos.
+Dialogue: 0,0:13:40.42,0:13:43.53,Gen_Main,,0000,0000,0000,,¿Adónde fueron?
+Dialogue: 0,0:13:48.39,0:13:50.18,Gen_Main,,0000,0000,0000,,Un muelle.
+Dialogue: 0,0:14:00.86,0:14:03.53,Gen_Main,,0000,0000,0000,,Todos amaban a Oden-sama.
+Dialogue: 0,0:14:13.45,0:14:15.79,Gen_Main,,0000,0000,0000,,¡¿Qué le pasó a Oden?!
+Dialogue: 0,0:14:17.96,0:14:23.75,Gen_Main,,0000,0000,0000,,Murió como un criminal\Nen la Capital de las Flores.
+Dialogue: 0,0:14:26.55,0:14:27.84,Gen_Main,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:14:31.22,0:14:33.18,Gen_Main,,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:14:33.41,0:14:35.72,Gen_Main,,0000,0000,0000,,¡Orochi es un tramposo!
+Dialogue: 0,0:14:37.18,0:14:38.96,Gen_Main,,0000,0000,0000,,¡No puedo creerlo!
+Dialogue: 0,0:14:40.40,0:14:41.77,Gen_Main,,0000,0000,0000,,¡Qué terrible!
+Dialogue: 0,0:14:42.06,0:14:44.97,Gen_Main,,0000,0000,0000,,La terrible muerte de Oden-sama
+Dialogue: 0,0:14:45.78,0:14:48.72,Gen_Main,,0000,0000,0000,,ocurrió hace 20 años.
+Dialogue: 0,0:14:49.32,0:14:51.45,Gen_Main,,0000,0000,0000,,Pero para nosotros…
+Dialogue: 0,0:14:51.91,0:14:54.62,Gen_Main,,0000,0000,0000,,fue solo hace unos meses.
+Dialogue: 0,0:14:55.70,0:14:59.81,Gen_Main,,0000,0000,0000,,Kozuki Oden era un samurái valiente.
+Dialogue: 0,0:15:00.87,0:15:02.75,Gen_Main,,0000,0000,0000,,Sus últimos momentos
+Dialogue: 0,0:15:03.56,0:15:07.96,Gen_Main,,0000,0000,0000,,aún se repiten claramente\Nen mi memoria.
+Dialogue: 0,0:15:17.18,0:15:19.60,Gen_Main,,0000,0000,0000,,¡Qué héroe!
+Dialogue: 0,0:15:23.10,0:15:26.84,Gen_Main,,0000,0000,0000,,Es increíble\Nque salieran de esa situación.
+Dialogue: 0,0:15:27.11,0:15:28.17,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:15:28.53,0:15:31.09,Gen_Main,,0000,0000,0000,,Ya no teníamos aliados,
+Dialogue: 0,0:15:31.45,0:15:35.53,Gen_Main,,0000,0000,0000,,así que solo huimos por nuestras vidas.
+Dialogue: 0,0:15:36.66,0:15:38.45,Gen_Main,,0000,0000,0000,,Dejamos el sitio de ejecución
+Dialogue: 0,0:15:38.95,0:15:41.71,Gen_Main,,0000,0000,0000,,y fuimos directamente al Castillo Oden.
+Dialogue: 0,0:15:46.63,0:15:50.03,Gen_Main,,0000,0000,0000,,En el camino, Inuarashi\Ny Nekomamushi pelearon entre sí,
+Dialogue: 0,0:15:50.20,0:15:54.39,Gen_Main,,0000,0000,0000,,los hombres de Orochi los atraparon\Ny tuvimos que dejarlos.
+Dialogue: 0,0:15:55.22,0:15:57.45,Gen_Main,,0000,0000,0000,,Aunque algunos de nosotros murieran,
+Dialogue: 0,0:15:57.60,0:16:00.81,Gen_Main,,0000,0000,0000,,alguien debía llegar al Castillo Oden.
+Dialogue: 0,0:16:01.39,0:16:05.38,Gen_Main,,0000,0000,0000,,Para acabar con el clan Kozuki,\NOrochi buscaba
+Dialogue: 0,0:16:07.30,0:16:10.46,Gen_Main,,0000,0000,0000,,a Momonosuke-sama,\Nquien estaba en el castillo.
+Dialogue: 0,0:16:19.41,0:16:21.50,Gen_Main,,0000,0000,0000,,¡El castillo…!
+Dialogue: 0,0:16:22.37,0:16:27.72,Gen_Main,,0000,0000,0000,,Pero Kaido ya había actuado,\Nprendiendo fuego al castillo.
+Dialogue: 0,0:16:31.55,0:16:34.66,Gen_Main,,0000,0000,0000,,¡Malditos sean! ¡Desgraciados!
+Dialogue: 0,0:16:35.01,0:16:36.76,Gen_Main,,0000,0000,0000,,¡No los perdonaré!
+Dialogue: 0,0:16:38.01,0:16:40.31,Gen_Main,,0000,0000,0000,,¡Atrápenlos!
+Dialogue: 0,0:16:50.11,0:16:52.22,Gen_Main,,0000,0000,0000,,¡Hana Shuriken!
+Dialogue: 0,0:16:50.11,0:16:52.22,Gen_Nota,,0000,0000,0000,,Shuriken Flor
+Dialogue: 0,0:16:57.24,0:17:01.83,Gen_Main,,0000,0000,0000,,Momonosuke-sama,\Nsu hermana menor, Hiyori-sama,
+Dialogue: 0,0:17:02.04,0:17:06.20,Gen_Main,,0000,0000,0000,,y su madre, Kozuki Toki-sama,\Nestaban en el castillo.
+Dialogue: 0,0:17:07.17,0:17:08.86,Gen_Main,,0000,0000,0000,,Madre…
+Dialogue: 0,0:17:13.67,0:17:16.70,Gen_Main,,0000,0000,0000,,¡Momonosuke-sama! ¡Hiyori-sama!
+Dialogue: 0,0:17:17.01,0:17:18.05,Gen_Main,,0000,0000,0000,,¡Toki-sama!
+Dialogue: 0,0:17:20.47,0:17:22.89,Gen_Main,,0000,0000,0000,,¡Vamos! ¡Rápido!
+Dialogue: 0,0:17:33.23,0:17:35.57,Gen_Main,,0000,0000,0000,,¡Momonosuke-sama!
+Dialogue: 0,0:17:35.86,0:17:37.78,Gen_Main,,0000,0000,0000,,¡Me alegra que esté bien!
+Dialogue: 0,0:17:38.32,0:17:40.85,Gen_Main,,0000,0000,0000,,¡Hiyori-sama! ¡Toki-sama!
+Dialogue: 0,0:17:46.46,0:17:48.52,Gen_Main,,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:17:48.76,0:17:52.67,Gen_Main,,0000,0000,0000,,¡Aunque estábamos ahí,\Ndejamos que Oden-sama…!
+Dialogue: 0,0:17:52.92,0:17:55.57,Gen_Main,,0000,0000,0000,,No fue su culpa.
+Dialogue: 0,0:17:55.84,0:17:56.75,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:17:56.99,0:17:58.74,Gen_Main,,0000,0000,0000,,Levanten la cabeza.
+Dialogue: 0,0:17:59.49,0:18:02.89,Gen_Main,,0000,0000,0000,,¡Toki-sama, es peligroso! ¡Vámonos!
+Dialogue: 0,0:18:04.22,0:18:06.23,Gen_Main,,0000,0000,0000,,Yo me quedaré.
+Dialogue: 0,0:18:07.39,0:18:08.72,Gen_Main,,0000,0000,0000,,¡No puede!
+Dialogue: 0,0:18:08.96,0:18:10.98,Gen_Main,,0000,0000,0000,,¡Salgamos de aquí!
+Dialogue: 0,0:18:11.44,0:18:12.84,Gen_Main,,0000,0000,0000,,¡Toki-sama!
+Dialogue: 0,0:18:15.86,0:18:19.53,Gen_Main,,0000,0000,0000,,¡Entonces,\Ncompartiremos su mismo destino!
+Dialogue: 0,0:18:20.20,0:18:23.03,Gen_Main,,0000,0000,0000,,Váyanse al futuro.
+Dialogue: 0,0:18:23.91,0:18:25.33,Gen_Main,,0000,0000,0000,,¿Al futuro?
+Dialogue: 0,0:18:25.66,0:18:28.89,Gen_Main,,0000,0000,0000,,La gente no puede volver al pasado,
+Dialogue: 0,0:18:29.04,0:18:31.29,Gen_Main,,0000,0000,0000,,pero puede ir al futuro.
+Dialogue: 0,0:18:34.09,0:18:37.55,Gen_Main,,0000,0000,0000,,Viajé al futuro
+Dialogue: 0,0:18:37.80,0:18:41.20,Gen_Main,,0000,0000,0000,,con el poder\Nde la extraña Fruta Toki Toki
+Dialogue: 0,0:18:41.48,0:18:46.81,Gen_Main,,0000,0000,0000,,y por fin llegué al lugar\Ndonde termina este viaje.
+Dialogue: 0,0:18:47.25,0:18:49.48,Gen_Main,,0000,0000,0000,,Fue difícil de creer,
+Dialogue: 0,0:18:49.90,0:18:54.50,Gen_Main,,0000,0000,0000,,pero se decía que Toki-sama\Nhabía nacido en el pasado distante.
+Dialogue: 0,0:18:56.69,0:18:58.30,Gen_Main,,0000,0000,0000,,Eso lo dice
+Dialogue: 0,0:18:58.74,0:19:01.03,Gen_Main,,0000,0000,0000,,porque conoció a Oden-sama.
+Dialogue: 0,0:19:01.25,0:19:04.95,Gen_Main,,0000,0000,0000,,Sí. Por eso me quedé aquí.
+Dialogue: 0,0:19:11.04,0:19:12.58,Gen_Main,,0000,0000,0000,,¡Si está decidida,
+Dialogue: 0,0:19:13.46,0:19:15.71,Gen_Main,,0000,0000,0000,,nadie puede detenerla!
+Dialogue: 0,0:19:26.31,0:19:30.35,Gen_Main,,0000,0000,0000,,¡Si de verdad iremos al futuro,
+Dialogue: 0,0:19:32.65,0:19:37.23,Gen_Main,,0000,0000,0000,,cumpliremos el sueño de Oden-sama
+Dialogue: 0,0:19:37.46,0:19:40.99,Gen_Main,,0000,0000,0000,,y acabaremos con Orochi y Kaido!
+Dialogue: 0,0:19:45.95,0:19:48.06,Gen_Main,,0000,0000,0000,,¡Conseguiremos
+Dialogue: 0,0:19:48.54,0:19:50.91,Gen_Main,,0000,0000,0000,,abrir el país!
+Dialogue: 0,0:19:54.13,0:19:57.71,Gen_Main,,0000,0000,0000,,Por favor, cuiden de Momonosuke.
+Dialogue: 0,0:19:59.05,0:20:00.26,Gen_Main,,0000,0000,0000,,¿Madre?
+Dialogue: 0,0:20:03.84,0:20:08.22,Gen_Main,,0000,0000,0000,,¡No, no quiero!\N¡Quiero quedarme contigo!
+Dialogue: 0,0:20:08.70,0:20:11.64,Gen_Main,,0000,0000,0000,,¡Madre, por favor!
+Dialogue: 0,0:20:12.02,0:20:16.46,Gen_Main,,0000,0000,0000,,¡Madre! ¡Madre!
+Dialogue: 0,0:20:33.62,0:20:35.86,Gen_Main,,0000,0000,0000,,Duele.
+Dialogue: 0,0:20:41.13,0:20:43.32,Gen_Main,,0000,0000,0000,,¿Eh? ¿Qué?
+Dialogue: 0,0:20:48.30,0:20:51.16,Gen_Main,,0000,0000,0000,,¿Es un sueño? ¿Dónde estoy?
+Dialogue: 0,0:20:51.43,0:20:53.71,Gen_Main,,0000,0000,0000,,¿Y el castillo? ¿El incendio?
+Dialogue: 0,0:20:54.09,0:20:56.90,Gen_Main,,0000,0000,0000,,¡Toki-sama! ¡Hiyori-sama!
+Dialogue: 0,0:20:59.61,0:21:04.22,Gen_Main,,0000,0000,0000,,¡¿Dónde estás, madre?!
+Dialogue: 0,0:21:04.78,0:21:07.39,Gen_Main,,0000,0000,0000,,¡Deténgase, Momonosuke-sama!
+Dialogue: 0,0:21:07.66,0:21:09.91,Gen_Main,,0000,0000,0000,,¡Madre!
+Dialogue: 0,0:21:12.87,0:21:14.56,Gen_Main,,0000,0000,0000,,¡Kin'emon!
+Dialogue: 0,0:21:22.80,0:21:25.68,Gen_Main,,0000,0000,0000,,¡¿Son nuestras tumbas?!
+Dialogue: 0,0:21:25.97,0:21:28.10,Gen_Main,,0000,0000,0000,,¡Y son muy viejas!
+Dialogue: 0,0:21:28.68,0:21:32.64,Gen_Main,,0000,0000,0000,,El poder de Toki-sama era real.
+Dialogue: 0,0:21:39.40,0:21:42.26,Gen_Main,,0000,0000,0000,,¿Eso es Kuri?
+Dialogue: 0,0:21:45.40,0:21:49.35,Gen_Main,,0000,0000,0000,,¿Esta es la Wano del futuro?
+Dialogue: 0,0:21:52.08,0:21:55.29,Gen_Main,,0000,0000,0000,,Como venimos del pasado,
+Dialogue: 0,0:21:55.71,0:22:00.54,Gen_Main,,0000,0000,0000,,el mundo de 20 años después\Nera desconocido.
+Dialogue: 0,0:22:01.04,0:22:03.00,Gen_Main,,0000,0000,0000,,Caminamos sin parar
+Dialogue: 0,0:22:03.30,0:22:07.11,Gen_Main,,0000,0000,0000,,para descubrir que el país\Nhabía cambiado por completo
+Dialogue: 0,0:22:07.41,0:22:08.93,Gen_Main,,0000,0000,0000,,por obra de Orochi.
+Dialogue: 0,0:22:09.84,0:22:11.66,Gen_Main,,0000,0000,0000,,Vimos fábricas
+Dialogue: 0,0:22:11.94,0:22:14.85,Gen_Main,,0000,0000,0000,,y muchas chimeneas\Nexpulsando humo negro.
+Dialogue: 0,0:22:15.16,0:22:19.69,Gen_Main,,0000,0000,0000,,Agua contaminada.\NUn estricto control de la comida.
+Dialogue: 0,0:22:20.28,0:22:23.04,Gen_Main,,0000,0000,0000,,Regiones que estaban destrozadas.
+Dialogue: 0,0:22:23.44,0:22:25.15,Gen_Main,,0000,0000,0000,,Tierras estériles.
+Dialogue: 0,0:22:25.53,0:22:29.79,Gen_Main,,0000,0000,0000,,El nombre Kozuki era\Ndespreciado por sus mentiras.
+Dialogue: 0,0:22:31.24,0:22:33.26,Gen_Main,,0000,0000,0000,,¡Ya no era
+Dialogue: 0,0:22:33.54,0:22:37.78,Gen_Main,,0000,0000,0000,,la Wano que conocíamos!
+Dialogue: 0,0:22:42.96,0:22:46.84,Gen_Main,,0000,0000,0000,,Pensé que nadie pelearía con nosotros.
+Dialogue: 0,0:22:49.59,0:22:53.60,Gen_Main,,0000,0000,0000,,Pero no era así.
+Dialogue: 0,0:22:54.01,0:22:56.85,Gen_Main,,0000,0000,0000,,Incluso después de 20 años,
+Dialogue: 0,0:22:57.52,0:23:03.61,Gen_Main,,0000,0000,0000,,quedaba gente que admiraba a Oden-sama\Ny quería ayudar al clan Kozuki.
+Dialogue: 0,0:23:07.60,0:23:09.61,Cart_A_Ari,,0000,0000,0000,,Oden
+Dialogue: 0,0:23:18.75,0:23:20.58,Gen_Italics,,0000,0000,0000,,La luna creciente ilumina el cielo.
+Dialogue: 0,0:23:20.85,0:23:25.29,Gen_Italics,,0000,0000,0000,,Guiados por dos pájaros y una serpiente,\Nla luz brilla para eliminar a Kaido.
+Dialogue: 0,0:23:25.49,0:23:30.70,Gen_Italics,,0000,0000,0000,,La llegada de más aliados eleva\Nel espíritu de Luffy y compañía.
+Dialogue: 0,0:23:30.91,0:23:35.78,Gen_Italics,,0000,0000,0000,,Los amigos que sufrieron ponen en marcha\Nun plan secreto para acabar con Kaido.
+Dialogue: 0,0:23:36.18,0:23:37.60,Gen_Main,,0000,0000,0000,,Próximamente:
+Dialogue: 0,0:23:37.72,0:23:40.89,Gen_Main,,0000,0000,0000,,"Acaben con el Emperador.\NEmpieza un asalto secreto".
+Dialogue: 0,0:23:41.02,0:23:44.21,Gen_Main,,0000,0000,0000,,¡Yo me convertiré\Nen el Rey de los Piratas!
+Dialogue: 0,0:23:41.64,0:23:45.65,Cart_A_Ari,,0000,0000,0000,,Acaben con el Emperador\NEmpieza un asalto secreto
